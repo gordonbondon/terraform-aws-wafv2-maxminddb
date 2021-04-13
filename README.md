@@ -10,4 +10,4 @@ Check documentation for available submodules on [module page on terraform regist
 
 * [ipset](https://registry.terraform.io/modules/gordonbondon/wafv2-maxminddb/aws/latest/submodules/ipset)
 
-* [embargoed-countries-ofac](https://registry.terraform.io/modules/gordonbondon/wafv2-maxminddb/aws/latest/submodules/ipsetembargoed-countries-ofac)
+* [embargoed-countries-ofac](https://registry.terraform.io/modules/gordonbondon/wafv2-maxminddb/aws/latest/submodules/embargoed-countries-ofac)
